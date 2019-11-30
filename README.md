@@ -37,3 +37,36 @@ The theme is available as open source under the terms of the [MIT License](https
 
 
 
+# monkeycourses-jekyll
+#Install Ruby development environment
+sudo apt install ruby-full build-essential zlib1g-dev
+
+#Avoid Ruby Gems installation as root user
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$PATH:$GEM_HOME/bin"' >> ~/.bashrc
+source ~/.bashrc
+
+# Install jekyll
+gem install jekyll bundler
+
+## Start new project/site/blog
+jekyll new myblog
+cd myblog
+bundle exec jekyll serve
+
+## Install gem based theme
+# add theme gem to Gemfile
+gem "jekyll-theme-minimal"
+# or if you've started with the jekyll new commmand, replace
+# gem "minima", "~> 2.0" with gem you want
+- gem "minima", "~> 2.0"
++ gem "jekyll-theme-miimal"
+# install theme
+bundle install
+# update _config.yml to activate theme
+theme: jekyll-theme-minimal
+# build site
+bundle exec jekyll serve
+# go in prod
+bundle exec jekyll build --destination monkeycourses.com
