@@ -12,13 +12,13 @@
 
 ## Screenshots:
 
-![Screenshot 1](https://raw.githubusercontent.com/sujaykundu777/devlopr-starter/master/assets/img/screenshot1.png)
+![Screenshot 1](https://raw.githubusercontent.com/leemenix/devlopr-starter/master/assets/img/screenshot1.png)
 
-![Screenshot 2](https://raw.githubusercontent.com/sujaykundu777/devlopr-starter/master/assets/img/screenshot2.png)
+![Screenshot 2](https://raw.githubusercontent.com/leemenix/devlopr-starter/master/assets/img/screenshot2.png)
 
-![Screenshot 3](https://raw.githubusercontent.com/sujaykundu777/devlopr-starter/master/assets/img/screenshot3.png)
+![Screenshot 3](https://raw.githubusercontent.com/leemenix/devlopr-starter/master/assets/img/screenshot3.png)
 
-![Screenshot 4](https://raw.githubusercontent.com/sujaykundu777/devlopr-starter/master/assets/img/screenshot4.png)
+![Screenshot 4](https://raw.githubusercontent.com/leemenix/devlopr-starter/master/assets/img/screenshot4.png)
 
 
 # Run using Docker 
