@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://monkeycourses.com/courses/ansible</loc>
+<lastmod>2019-11-01T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>https://monkeycourses.com/courses/saltstack</loc>
+<lastmod>2019-11-01T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>https://monkeycourses.com/guides/2019/05/20/build-a-blog-using-devlopr-jekyll/</loc>
 <lastmod>2019-05-20T11:05:23+02:00</lastmod>
 </url>
@@ -9,7 +17,7 @@
 <lastmod>2019-05-21T11:05:23+02:00</lastmod>
 </url>
 <url>
-<loc>https://monkeycourses.com/guides/2019/05/22/using-siteleaf/</loc>
+<loc>https://monkeycourses.com/courses/2019/05/22/using-siteleaf/</loc>
 <lastmod>2019-05-22T11:05:23+02:00</lastmod>
 </url>
 <url>
@@ -25,7 +33,13 @@
 <loc>https://monkeycourses.com/contact.html</loc>
 </url>
 <url>
+<loc>https://monkeycourses.com/course/categories/</loc>
+</url>
+<url>
 <loc>https://monkeycourses.com/blog/categories/guides.html</loc>
+</url>
+<url>
+<loc>https://monkeycourses.com/courses/</loc>
 </url>
 <url>
 <loc>https://monkeycourses.com/blog/</loc>
