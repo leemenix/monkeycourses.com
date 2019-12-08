@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://monkeycourses.com/course/ansible/2019-11-01-ansible-automation-lesson-001</loc>
+<loc>https://monkeycourses.com/course/ansible/Ansible_automation-Lesson_001.html</loc>
 <lastmod>2019-11-01T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>https://monkeycourses.com/course/ansible/Ansible_automation-Lesson_002</loc>
+<loc>https://monkeycourses.com/course/ansible/Ansible_automation-Lesson_002.html</loc>
 <lastmod>2019-11-02T00:00:00-05:00</lastmod>
 </url>
 <url>
@@ -21,11 +21,11 @@
 <lastmod>2019-05-22T04:05:23-05:00</lastmod>
 </url>
 <url>
-<loc>https://monkeycourses.com/course/saltstack/2019-11-01-saltstack-automation-lesson-001</loc>
+<loc>https://monkeycourses.com/course/ansible/SaltStack_automation-Lesson_001.html</loc>
 <lastmod>2019-11-01T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>https://monkeycourses.com/course/saltstack/2019-11-02-saltstack-automation-lesson-002</loc>
+<loc>https://monkeycourses.com/course/ansible/SaltStack_automation-Lesson_002.html</loc>
 <lastmod>2019-11-02T00:00:00-05:00</lastmod>
 </url>
 <url>
